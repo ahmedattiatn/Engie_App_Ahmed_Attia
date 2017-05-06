@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/compte"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/galerie"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_comment_black_24dp"
+            android:title="@string/information"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:title="@string/déconnecter"/>
+    </group>
+
+    <item android:title="@string/communication">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/partager"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/message"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Engie BY AHMED ATIA</string>
+    <string name="title_activity_user_acount">UserAcountActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="connect">Inscription avec mon email</string>
+    <string name="sign_up">Créer mon compte</string>
+    <string name="welcome">Bonjour</string>
+    <string name="compte">Compte</string>
+    <string name="galerie">Galerie</string>
+    <string name="information">Informations</string>
+    <string name="déconnecter">Déconnecter</string>
+    <string name="quiter">Quittez ?</string>
+    <string name="ok">OUI</string>
+    <string name="no">Non</string>
+    <string name="mail_ver">Vérifiez votre e_mail</string>
+    <string name="communication">Communication</string>
+    <string name="partager">Partager</string>
+    <string name="message">Message</string>
+    <string name="action_settings">Settings</string>
+</resources>
